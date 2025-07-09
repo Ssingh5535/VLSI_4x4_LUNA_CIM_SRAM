@@ -102,19 +102,19 @@ Multipliers are central to DSP and cryptographic hardware, but conventional arch
 ### Power Consumption
 
 #### Static Power
-![Static Power](reports/static_power.png)  
+![Static Power](Images/staticpower.png)  
 Measured **57.37 µW** static draw at nominal voltage.
 
 #### Average Power
-![Average Power](reports/average_power.png)  
+![Average Power](Images/AvEnery.png)  
 Recorded **146.7 µW** average consumption under dynamic operation.
 
 #### Energy per Calculation
-![Energy per Calculation](reports/energy_per_calc.png)  
+![Energy per Calculation](Images/Energy.png)  
 Achieved **676 fJ** per 4×4 multiplication (16-input cycles).
 
 ### Input & Output Waveforms
-![I/O Waveforms](sim/waveforms/input_output_waves.png)  
+![I/O Waveforms](Images/INOUTRES.png)  
 Shows `Y<3:0>` stimuli versus resulting `OUT<7:0>`; output spikes are highlighted.
 
 ---
@@ -125,8 +125,11 @@ The LUNA-CiM 4×4 multiplier demonstrates substantial power savings and area eff
 ---
 
 ## Appendix
-- **Figure A1:** 4×1 MUX 6-bit Schematic (`docs/fig_mux4to1_6bit.png`)
-- **Figure A2:** Final LUNA-CiM Schematic (`reports/final_schematic.png`)
+- **Figure A1:** 4×1 MUX 6-bit Schematic 
+![4×1 MUX 6-bit Schematic](Images/LAb4P2Schem.png) 
+- **Figure A2:** Final LUNA-CiM Schematic 
+![Final LUNA-CiM Schematic](Images/FinalSchem.png) 
+
 
 ---
 
