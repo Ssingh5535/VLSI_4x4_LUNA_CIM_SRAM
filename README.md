@@ -33,31 +33,6 @@
 ## Project Overview
 This project implements and evaluates a low-energy, area-efficient 4×4 integer multiplier—termed **LUNA-CiM**—using the Divide & Conquer (D&C) approach in a 45 nm CMOS process (gpdk045). By reusing optimized full-adders, half-adders, multiplexers, buffers, and inverters, LUNA-CiM minimizes SRAM cell usage and delivers competitive power and area metrics versus traditional LUT-based designs.
 
----
-
-## Repository Structure
-```
-├── src/
-│   ├── full_adder.vhd
-│   ├── half_adder.vhd
-│   ├── mux2to1_6bit.vhd
-│   ├── mux4to1_6bit.vhd
-│   ├── not_block.vhd
-│   └── luna_cim_multiplier.vhd
-├── sim/
-│   ├── waveforms/
-│   │   ├── input_output_waves.png
-│   │   └── ...
-│   └── testbench.vhd
-├── reports/
-│   ├── static_power.png
-│   ├── average_power.png
-│   ├── energy_per_calc.png
-│   └── final_schematic.png
-├── docs/
-│   └── Assignment5_Singh.pdf
-└── README.md
-```
 
 ---
 
@@ -131,12 +106,3 @@ The LUNA-CiM 4×4 multiplier demonstrates substantial power savings and area eff
 ![Final LUNA-CiM Schematic](Images/FinalSchem.png) 
 
 
----
-
-## Acknowledgments
-Special thanks to UF ECE faculty and the gpdk045 design kit maintainers for their support.
-
----
-
-## License
-This project is released under the **MIT License**—see [LICENSE](LICENSE) for details.
