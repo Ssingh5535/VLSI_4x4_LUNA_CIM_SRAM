@@ -23,8 +23,7 @@
    - [Input & Output Waveforms](#input--output-waveforms)  
 6. [Conclusion](#conclusion)  
 7. [Appendix](#appendix)  
-8. [Acknowledgments](#acknowledgments)  
-9. [License](#license)
+
 
 ---
 
