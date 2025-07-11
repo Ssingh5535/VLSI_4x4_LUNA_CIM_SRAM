@@ -1,8 +1,6 @@
 # LUNA-CiM 4×4 Multiplier (VLSI)
 
 **Author:** Stephen Singh  
-**Affiliation:** Herbert Wertheim College of Engineering, University of Florida  
-**Email:** singhstephen@ufl.edu
 
 ---
 
