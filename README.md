@@ -5,24 +5,23 @@
 ---
 
 ## Table of Contents
-1. [Project Overview](#project-overview)  
-2. [Repository Structure](#repository-structure)  
-3. [Introduction](#introduction)  
-4. [Methodology](#methodology)  
+1. [Project Overview](#project-overview)   
+2. [Introduction](#introduction)  
+3. [Methodology](#methodology)  
    - [Expanding 2×1 MUX to 6-bit](#expanding-2×1-mux-to-6-bit)  
    - [Creating 4×1 MUX 6-bit](#creating-4×1-mux-6-bit)  
    - [Component Design](#component-design)  
      - [NOT Block](#not-block)  
      - [Multiplication Block](#multiplication-block)  
      - [LUNA-CiM 4×4 LUT Multiplier](#luna-cim-4×4-lut-multiplier)  
-5. [Results](#results)  
+4. [Results](#results)  
    - [Power Consumption](#power-consumption)  
      - [Static Power](#static-power)  
      - [Average Power](#average-power)  
      - [Energy per Calculation](#energy-per-calculation)  
    - [Input & Output Waveforms](#input--output-waveforms)  
-6. [Conclusion](#conclusion)  
-7. [Appendix](#appendix)  
+5. [Conclusion](#conclusion)  
+6. [Appendix](#appendix)  
 
 
 ---
