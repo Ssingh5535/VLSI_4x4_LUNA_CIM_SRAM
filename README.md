@@ -77,7 +77,7 @@ Multipliers are central to DSP and cryptographic hardware, but conventional arch
 Measured **57.37 µW** static draw at nominal voltage.
 
 #### Average Power
-![Average Power](Images/AvEnery.png)  
+![Average Power](Images/AvEnergy.png)  
 Recorded **146.7 µW** average consumption under dynamic operation.
 
 #### Energy per Calculation
